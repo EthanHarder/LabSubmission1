@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: c77cbfde950b14246ba91133125d77a6
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.001_1_1_0
+    second: {fileID: 2100000, guid: a4bfd1a0082915f469d9236764c1ca69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.002_1_1_0
+    second: {fileID: 2100000, guid: 4ded2f00b7160f245ad7bb5dad1e9589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.003_1_1_0
+    second: {fileID: 2100000, guid: 4f66e463dd095ba4ab94c197011b3caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.004_1_1_0
+    second: {fileID: 2100000, guid: 854a4e7305e38454cb53e49a2376f688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.005_1_1_0
+    second: {fileID: 2100000, guid: 177db70c424ed9b419457dc531e233c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.006_1_1_0
+    second: {fileID: 2100000, guid: 3433a2fb5b10cec45a8b858f9863b40d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.007_1_1_0
+    second: {fileID: 2100000, guid: be7d926344c3e9e4e972f2bcbc3d4a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.008_1_1_0
+    second: {fileID: 2100000, guid: 52e67f96bc50e2842af8309ce0c56a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.009_1_1_0
+    second: {fileID: 2100000, guid: 34e644a160f53f8449c07d597646bf92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.010_1_1_0
+    second: {fileID: 2100000, guid: 5d9f3a3b63f3e164f8fc4574a39b58bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.011_1_1_0
+    second: {fileID: 2100000, guid: c79c0df966f13d743aaff1770aba77f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.012_1_1_0
+    second: {fileID: 2100000, guid: e8473b7b85cd0c94dad35238e7854d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.013_1_1_0
+    second: {fileID: 2100000, guid: 8e32717f5298a8d408d753e0a4880a44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.014_1_1_0
+    second: {fileID: 2100000, guid: f49d1527e0599b34ba5c4e6bdc2b9aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.015_1_1_0
+    second: {fileID: 2100000, guid: c20ba6035b339cb4caed66824f9627f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.016_1_1_0
+    second: {fileID: 2100000, guid: 8f97d0432d59ab94e82a37fab72019fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.017_1_1_0
+    second: {fileID: 2100000, guid: 7351a16baf294c94d97c6bbdd70c74cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.018_1_1_0
+    second: {fileID: 2100000, guid: 0b705a69b0cb6ce40b70f1e5c46d04e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.019_1_1_0
+    second: {fileID: 2100000, guid: b2a5ea2300c1e354cb1a86e260c8170f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.020_1_1_0
+    second: {fileID: 2100000, guid: b13b989940886e844800f601d0597bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.021_1_1_0
+    second: {fileID: 2100000, guid: c0ddbe0b3c28f4d409a2c3d539496c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.022_1_1_0
+    second: {fileID: 2100000, guid: 3959dd3fc2ea2af41ae400ccd40f9cb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.023_1_1_0
+    second: {fileID: 2100000, guid: 864e8767a456c7b4a9d3dd13614c178e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.024_1_1_0
+    second: {fileID: 2100000, guid: 725d1320c3b006c409f6ab4116e5b3b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.025_1_1_0
+    second: {fileID: 2100000, guid: 437d4a97e6b4d174b86e492bb7f8f12a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.026_1_1_0
+    second: {fileID: 2100000, guid: 137ec46fccedfb1429c9d46b32fe52b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.027_1_1_0
+    second: {fileID: 2100000, guid: 58074f4375caff14fb13c1497fb74a01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.028_1_1_0
+    second: {fileID: 2100000, guid: 99e49c64b6471a94aa0443d0f17c3484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.029_1_1_0
+    second: {fileID: 2100000, guid: 4085b0e65b3e30c41ae590cb169918b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.030_1_1_0
+    second: {fileID: 2100000, guid: 94c9a3d5fdc71204eb97ff1121f7b2a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.031_1_1_0
+    second: {fileID: 2100000, guid: 59def784537566b4a854e37c106dfee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.032_1_1_0
+    second: {fileID: 2100000, guid: 36b9ede0a7a51494bae8d8fea03104a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.033_1_1_0
+    second: {fileID: 2100000, guid: d1170a22b8ba4ef4ea31ceb65a1c78e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.034_1_1_0
+    second: {fileID: 2100000, guid: daf603a70be412d4ba00841f7c4b0224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.035_1_1_0
+    second: {fileID: 2100000, guid: fda39ab884d855c458dd502b870f8306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.036_1_1_0
+    second: {fileID: 2100000, guid: 0b1b3f1b98e3db54fad4b60a893952e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house.part.037_1_1_0
+    second: {fileID: 2100000, guid: 10e73bfe82b10714e90f5387672f18e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7_Street house_0.1_1_0
+    second: {fileID: 2100000, guid: 06d5a2efc3c55214398b8e0d0b3bf5a3, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
